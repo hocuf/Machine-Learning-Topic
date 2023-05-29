@@ -15,9 +15,8 @@ The use of data and algorithms is actually important for the intelligence of mac
 ## Supervised Learning:
 
 Supervised Learning is analysed in 2 parts. Regression and Classification. The features that apply to both are that there is data and there is a target.
-[Regression](Regression.md) - [Classification](Classification.md)
+# " [Regression](Regression.md) - [Classification](Classification.md) " 
 
 ## Unsupervised Learning:
 I have analysed Unsupervised Learning in one piece. Clustering is the healthiest. Its feature is that there is data and there is no target, using similarities.
-
-
+" [Clustering](Clustering.md) "
