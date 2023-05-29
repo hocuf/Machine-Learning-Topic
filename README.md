@@ -18,6 +18,6 @@ Supervised Learning is analysed in 2 parts. Regression and Classification. The f
 [Regression](Regression.md) - [Classification](Classification.md)
 
 ## Unsupervised Learning:
-Data exists. No target. Similarity is found.
+I have analysed Unsupervised Learning in one piece. Clustering is the healthiest. Its feature is that there is data and there is no target, using similarities.
 
 
