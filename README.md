@@ -13,7 +13,9 @@ The use of data and algorithms is actually important for the intelligence of mac
 
 
 ## Supervised Learning:
-There is data. Target exists.
+
+Supervised Learning is analysed in 2 parts. Regression and Classification. The features that apply to both are that there is data and there is a target.
+Regression - Classification
 
 ## Unsupervised Learning:
 Data exists. No target. Similarity is found.
