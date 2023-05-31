@@ -29,7 +29,7 @@ The dataset given here contains the data about the sales of the product. The dat
 ---------------------------------
 ![image](https://github.com/hocuf/Machine-Learning-Topic/assets/92105996/7cb17294-4c0e-4aaf-9f05-1f51bf8a8ed4)
 -----------------------------
-![image](https://github.com/hocuf/Machine-Learning-Topic/assets/92105996/495a9491-b461-41a2-883b-fca64f330168) visul
+![image](https://github.com/hocuf/Machine-Learning-Topic/assets/92105996/495a9491-b461-41a2-883b-fca64f330168) 
 --------------------------------
 ![image](https://github.com/hocuf/Machine-Learning-Topic/assets/92105996/2561b2cb-bced-4001-b60a-62dd874eceea)
 -----------------------------------
