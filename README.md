@@ -1,3 +1,8 @@
+
+## Machine Learning is a part of Artificial Intelligence.
+
+![image](https://github.com/hocuf/Machine-Learning-Topic/assets/92105996/deacaa2f-4013-4c07-a1a2-1c1eefd44fa2)
+
 # Machine Learning Topic 
 
 
